@@ -1,6 +1,6 @@
 {
   "name": "logem",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Opinionated logger for terminal with papertrail integration",
   "main": "index.js",
   "scripts": {
